@@ -10,3 +10,7 @@ asdf
 cg0943
 ## Favorite Professor
 sarkar subharag
+## EUID
+cg0943
+## Favorite Professor
+Sarkar Subharag
